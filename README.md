@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="<img src="https://i.ibb.co/260PBYy/logo-white-M.png" alt="logo- white-M" border="0">
+   <a href="https://imgbb.com/"><img src="https://i.ibb.co/260PBYy/logo-white-M.png" alt="Morningstar Library Semantik Logo" width="200" height="200" border="0"></a>
 </p>
 
 # Morningstar Library Semantics 🚀
