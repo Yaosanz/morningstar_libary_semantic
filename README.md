@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="<img src="https://i.ibb.co/260PBYy/logo-white-M.png" alt="logo- white-M" border="0"></a>
+   <img src="<img src="https://i.ibb.co/260PBYy/logo-white-M.png" alt="logo- white-M" border="0">
 </p>
 
 # Morningstar Library Semantics 🚀
