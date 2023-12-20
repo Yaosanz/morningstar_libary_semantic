@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ibb.co/Lnddp7w"><img src="https://i.ibb.co/sy993YS/Sewain-Mockup-Logo.png" alt="Sewain-Mockup-Logo" width="2040" height="1080" border="0"></a>
+  <a href="https://ibb.co/Lnddp7w"><img src="https://i.ibb.co/sy993YS/Sewain-Mockup-Logo.png" alt="Sewain-Mockup-Logo" width="2040"  border="0"></a>
 </p>
 
 # Morningstar Library Semantics 🚀
