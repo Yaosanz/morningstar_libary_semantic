@@ -2,6 +2,10 @@
    <a href="https://imgbb.com/"><img src="https://i.ibb.co/260PBYy/logo-white-M.png" alt="Morningstar Library Semantik Logo" width="200" height="200" border="0"></a>
 </p>
 
+<p align="center">
+  <a href="https://ibb.co/Lnddp7w"><img src="https://i.ibb.co/sy993YS/Sewain-Mockup-Logo.png" alt="Sewain-Mockup-Logo" border="0"></a>
+</p>
+
 # Morningstar Library Semantics 🚀
 
 Welcome to Morningstar Library Semantics, where semantic design meets the practicality of Bootstrap Studio! 🌟 With a stunning user interface and responsive design, we take the library experience to the next level.
